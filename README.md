@@ -2,8 +2,7 @@
 ### Hi there 👋
 
 I'm Apoorv Anupam
-![]
-(https://github.com/ApoorvAnupam11/ApoorvAnupam11/blob/main/wSAsd9DqFz.gif)
+![Naruto](https://github.com/ApoorvAnupam11/ApoorvAnupam11/blob/main/wSAsd9DqFz.gif)
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working as a Software Engineer at [NIQ](https://nielseniq.com/global/en/).
 - 🌱 I’m currently learning about Low Latency and Distributed Systems.
