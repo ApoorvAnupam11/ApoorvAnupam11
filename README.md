@@ -2,9 +2,12 @@
 ### Hi there
 
 ## I'm Apoorv Anupam
-<div style="text-align: left"> ![Naruto](https://github.com/ApoorvAnupam11/ApoorvAnupam11/blob/main/wSAsd9DqFz.gif) </div>
+<br />
+
+![Naruto](https://github.com/ApoorvAnupam11/ApoorvAnupam11/blob/main/wSAsd9DqFz.gif)
 
 <br />
+
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working as a Software Engineer at [NIQ](https://nielseniq.com/global/en/).
 - 🌱 I’m currently learning about Low Latency and Distributed Systems.
