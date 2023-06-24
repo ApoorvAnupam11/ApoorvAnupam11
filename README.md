@@ -9,7 +9,6 @@
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working as a Software Engineer at [NIQ](https://nielseniq.com/global/en/).
 - 🌱 I’m currently learning about Low Latency and Distributed Systems.
-- 💬 Ask me about Angular, SprinBoot, C++.
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/apoorv-anupam-9785421a5/).
 
 <div align="center">
