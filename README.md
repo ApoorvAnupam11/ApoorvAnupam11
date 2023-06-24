@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I'm Apoorv Anupam
-
+ <img alt="Naruto" src="https://assets1.lottiefiles.com/packages/lf20_uhsngkt4.json" />
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working as a Software Engineer at [NIQ](https://nielseniq.com/global/en/).
 - 🌱 I’m currently learning about Low Latency and Distributed Systems.
