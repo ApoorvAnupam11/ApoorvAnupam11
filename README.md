@@ -1,12 +1,10 @@
 
-### Hi there
-
-## I'm Apoorv Anupam
+# Hi there
 <br />
-
 ![Naruto](https://github.com/ApoorvAnupam11/ApoorvAnupam11/blob/main/wSAsd9DqFz.gif)
-
 <br />
+
+### I'm Apoorv Anupam
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working as a Software Engineer at [NIQ](https://nielseniq.com/global/en/).
