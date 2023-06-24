@@ -1,8 +1,8 @@
 
 # Hi there
-<br />
+
 ![Naruto](https://github.com/ApoorvAnupam11/ApoorvAnupam11/blob/main/wSAsd9DqFz.gif)
-<br />
+
 
 ### I'm Apoorv Anupam
 
