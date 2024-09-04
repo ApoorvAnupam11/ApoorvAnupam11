@@ -6,7 +6,7 @@
 
 ### I'm Apoorv Anupam
 
-- 😄 Pronouns: He/Him/Captain Carrot
+- 🥕 Pronouns: He/Him/Captain Carrot
 - 🔭 I’m currently working as a Software Engineer at [NIQ](https://nielseniq.com/global/en/).
 - 🌱 I’m currently learning about Machine Learning and Low Latency Systems.
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/apoorv-anupam-9785421a5/).
